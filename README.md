@@ -1,4 +1,4 @@
-## Ex-05 Write a java program to insert an element into array
+## Ex-07 Write a java program to insert an element into array
 ## Aim:-
 To write a Java program to insert an element in an Array.
 
