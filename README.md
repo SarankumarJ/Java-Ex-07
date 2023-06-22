@@ -1,5 +1,4 @@
-## Java-Ex-07
-### Write a java program to insert an element into array
+## Ex-05 Write a java program to insert an element into array
 ## Aim:-
 To write a Java program to insert an element in an Array.
 
@@ -20,6 +19,8 @@ Using for loop insert the input element at the end of the array.
 Display the append array in the terminal.
 
 ## Program :-
+### Developed By : Sarankumar J
+### Register Number : 212221230087
 ```java
 import java.util.Scanner;
 public class Insert_Array
